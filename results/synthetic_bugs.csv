@@ -1,0 +1,8 @@
+loi,frame,cach_phat_hien
+Điểm NaN/Inf (I/O),000000,invalid_ratio=0.10% > 0 (isfinite)
+Điểm NaN/Inf (I/O),000001,invalid_ratio=0.10% > 0 (isfinite)
+Điểm NaN/Inf (I/O),000002,invalid_ratio=0.10% > 0 (isfinite)
+Điểm NaN/Inf (I/O),000003,invalid_ratio=0.10% > 0 (isfinite)
+Điểm NaN/Inf (I/O),000004,invalid_ratio=0.10% > 0 (isfinite)
+Mất cả dải azimuth / sector dropout (Preprocess/sensor),000003,"azimuth [-40°,-5°] còn <60% số điểm so với trung vị các frame khác"
+Khoảng cách timestamp bất thường / mất frame (Time),000003,dt=0.20s so với trung vị 0.10s (frame 000002→000003)

@@ -1,0 +1,5 @@
+dataset,stage,n_points,runs,p50_ms,p95_ms,hw
+kitti,project,122555,30,14.58,15.85,"Intel64 Family 6 Model 151 Stepping 2, GenuineIntel | Windows-10-10.0.26100-SP0 | CPU only"
+kitti,project+edge_score,122555,30,25.62,28.67,"Intel64 Family 6 Model 151 Stepping 2, GenuineIntel | Windows-10-10.0.26100-SP0 | CPU only"
+nuscenes,project,34688,30,4.58,5.02,"Intel64 Family 6 Model 151 Stepping 2, GenuineIntel | Windows-10-10.0.26100-SP0 | CPU only"
+nuscenes,project+edge_score,34688,30,33.51,88.32,"Intel64 Family 6 Model 151 Stepping 2, GenuineIntel | Windows-10-10.0.26100-SP0 | CPU only"
